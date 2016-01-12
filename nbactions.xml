@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-update dependency</actionName>
+            <displayName>update dependency</displayName>
+            <goals>
+                <goal>dependency:resolve</goal>
+            </goals>
+        </action>
+    </actions>
